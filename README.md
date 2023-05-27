@@ -17,3 +17,4 @@ Although you and your partner will divide the work, it’s essential to collabor
 # ETL Analysis
 
 Used Pandas to create dictionary for contacts.xlsx instead of Regex
+Since all the data was given to us through crowdfuning and excel those will count as our sources for citation. 

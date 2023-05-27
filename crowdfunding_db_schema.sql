@@ -63,3 +63,13 @@ FOREIGN KEY("contact_id")
 REFERENCES "contacts" ("contact_id");
 
 
+SELECT * FROM "campaign";
+
+SELECT * FROM "category";
+
+SELECT * FROM "subcategory";
+
+SELECT * FROM "contacts";
+
+
+
